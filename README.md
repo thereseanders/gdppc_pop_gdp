@@ -24,8 +24,8 @@ The folder `isq2020` contains estimates of GDP, population, and SDP (1800-2015) 
 | `sdp_sd` | Standard deviation of ln SDP estimate |
 
 
-|:warning: | The full replication data for the article can be found [here](https://github.com/thereseanders/sdp). |
-| --- | --- |
+|:warning:  The full replication data for the article can be found [here](https://github.com/thereseanders/sdp). |
+| --- |
  
 
 
