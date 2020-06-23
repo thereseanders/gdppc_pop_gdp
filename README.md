@@ -23,7 +23,10 @@ The folder `isq2020` contains estimates of GDP, population, and SDP (1800-2015) 
 | `sdp` | ln SDP estimate ($3 per day minimum subsistence threshold) |
 | `sdp_sd` | Standard deviation of ln SDP estimate |
 
-The full replication data for the article can be found [here](https://github.com/thereseanders/sdp). 
+
+|:warning: | The full replication data for the article can be found [here](https://github.com/thereseanders/sdp). |
+| --- | --- |
+ 
 
 
 
