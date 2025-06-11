@@ -35,6 +35,12 @@ GoodMa_gdppc_ppp_bcbt_2011 <- subset(test, indicator=="GoodMa_gdppc_ppp_bcbt_201
 plot(GoodMa_gdppc_ppp_bcbt_2011$year, GoodMa_gdppc_ppp_bcbt_2011$mean_log10)
 points(GoodMa_gdppc_ppp_bcbt_2011$year, GoodMa_gdppc_ppp_bcbt_2011$og_log10, col=2)
 
+table(Apostolides_gdppc_ppp_bc_1990$gwno)
+table(Apostolides_gdppc_ppp_bc_2005$gwno)
+table(Treisman_gdppc_ppp_bcbt_2011$gwno)
+table(Schulze_gdppc_ppp_bc_1990$gwno)
+table(GoodMa_gdppc_ppp_bcbt_2011$gwno)
+
 
 ##########
 Apostolides_gdppc_ppp_bc_1990 <- subset(test, indicator=="Apostolides_gdppc_ppp_bc_1990" & !is.na(og))
